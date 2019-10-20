@@ -1,0 +1,14 @@
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.2\MRKTPL.Services.deps.json
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.2\MRKTPL.Services.runtimeconfig.json
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.2\MRKTPL.Services.runtimeconfig.dev.json
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.2\MRKTPL.Services.dll
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.2\MRKTPL.Services.pdb
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.2\MRKTPL.Data.dll
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.2\MRKTPL.Data.pdb
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.2\MRKTPL.Services.csprojAssemblyReference.cache
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.2\MRKTPL.Services.csproj.CoreCompileInputs.cache
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.2\MRKTPL.Services.AssemblyInfoInputs.cache
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.2\MRKTPL.Services.AssemblyInfo.cs
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.2\MRKTPL.Services.csproj.CopyComplete
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.2\MRKTPL.Services.dll
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.2\MRKTPL.Services.pdb
