@@ -1,0 +1,6 @@
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL\obj\Debug\netcoreapp2.1\MRKTPL.csprojAssemblyReference.cache
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL\obj\Debug\netcoreapp2.1\MRKTPL.csproj.CoreCompileInputs.cache
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL\obj\Debug\netcoreapp2.1\MRKTPL.RazorAssemblyInfo.cache
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL\obj\Debug\netcoreapp2.1\MRKTPL.RazorAssemblyInfo.cs
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL\obj\Debug\netcoreapp2.1\MRKTPL.AssemblyInfoInputs.cache
+E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL\obj\Debug\netcoreapp2.1\MRKTPL.AssemblyInfo.cs
