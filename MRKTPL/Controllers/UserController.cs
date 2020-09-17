@@ -14,19 +14,21 @@ using System.Security.Claims;
 
 namespace MRKTPL.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/v1/[controller]")]
     [ApiController]
     [EnableCors("CorsPolicy")]
     public class UserController : ControllerBase
     {
         #region Fields
         private readonly IUserServices _users;
+        private readonly IMapper _mapper;
         //private readonly IErrorLoggerManager _logger;
         #endregion
         #region CTor
-        public UserController(IUserServices userServices)//, ErrorLoggerManager logger)//, IMapper mapper)
+        public UserController(IUserServices userServices, IMapper mapper)//, ErrorLoggerManager logger)//, IMapper mapper)
         {
             _users = userServices;
+            _mapper = mapper;
             //_logger = logger;
         }
         #endregion
@@ -36,8 +38,8 @@ namespace MRKTPL.Controllers
         public IEnumerable<UserMaster> Get()
         {
             return _users.GetAllUsers();
-            throw new Exception("Fetching all the Users from the storage");
-            
+             
+          //  return Ok(_mapper.Map<IEnumerable<UserDto>>(result));
         }
 
         [HttpGet("{id}", Name = "GetUsers")]

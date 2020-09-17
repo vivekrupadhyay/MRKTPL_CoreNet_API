@@ -1,0 +1,15 @@
+D:\POC\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.1\MRKTPL.Services.deps.json
+D:\POC\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.1\MRKTPL.Services.runtimeconfig.json
+D:\POC\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.1\MRKTPL.Services.runtimeconfig.dev.json
+D:\POC\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.1\MRKTPL.Services.dll
+D:\POC\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.1\MRKTPL.Services.pdb
+D:\POC\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.1\MRKTPL.Data.dll
+D:\POC\MRKTPL\MRKTPL.Services\bin\Debug\netcoreapp2.1\MRKTPL.Data.pdb
+D:\POC\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.1\MRKTPL.Services.csprojAssemblyReference.cache
+D:\POC\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.1\MRKTPL.Services.AssemblyInfoInputs.cache
+D:\POC\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.1\MRKTPL.Services.AssemblyInfo.cs
+D:\POC\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.1\MRKTPL.Services.csproj.CoreCompileInputs.cache
+D:\POC\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.1\MRKTPL.Services.csproj.CopyComplete
+D:\POC\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.1\MRKTPL.Services.dll
+D:\POC\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.1\MRKTPL.Services.pdb
+D:\POC\MRKTPL\MRKTPL.Services\obj\Debug\netcoreapp2.1\MRKTPL.Services.genruntimeconfig.cache
