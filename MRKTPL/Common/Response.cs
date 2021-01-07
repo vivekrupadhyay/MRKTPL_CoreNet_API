@@ -5,5 +5,4 @@ public class ErrorResponse : IErrorResponse {
     public object Value { get; set; }
     public bool IsVisible { get; set; } = true;
     public string ErrorMessage { get; set; }
-
 }

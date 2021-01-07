@@ -8,5 +8,4 @@ public class InternalServerError {
     public int? HttpStatusCode { get; set; }
     public List<ErrorResponse> Errors { get; set; }
     public string RequestId { get; set; }
-
 }
