@@ -9,3 +9,15 @@ E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Data\obj\Debug\n
 E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.dll
 E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.pdb
 E:\VKProjects\AngularDemo\MarketPlace\MarketPlace\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.csprojAssemblyReference.cache
+D:\POC\MRKTPL\MRKTPL.Data\bin\Debug\netcoreapp2.2\MRKTPL.Data.deps.json
+D:\POC\MRKTPL\MRKTPL.Data\bin\Debug\netcoreapp2.2\MRKTPL.Data.runtimeconfig.json
+D:\POC\MRKTPL\MRKTPL.Data\bin\Debug\netcoreapp2.2\MRKTPL.Data.runtimeconfig.dev.json
+D:\POC\MRKTPL\MRKTPL.Data\bin\Debug\netcoreapp2.2\MRKTPL.Data.dll
+D:\POC\MRKTPL\MRKTPL.Data\bin\Debug\netcoreapp2.2\MRKTPL.Data.pdb
+D:\POC\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.csprojAssemblyReference.cache
+D:\POC\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.AssemblyInfoInputs.cache
+D:\POC\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.AssemblyInfo.cs
+D:\POC\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.csproj.CoreCompileInputs.cache
+D:\POC\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.dll
+D:\POC\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.pdb
+D:\POC\MRKTPL\MRKTPL.Data\obj\Debug\netcoreapp2.2\MRKTPL.Data.genruntimeconfig.cache
